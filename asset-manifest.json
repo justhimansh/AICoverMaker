@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AICoverMaker/static/css/main.80ee0b07.css",
-    "main.js": "/AICoverMaker/static/js/main.58488b78.js",
-    "static/js/787.ebde1ebc.chunk.js": "/AICoverMaker/static/js/787.ebde1ebc.chunk.js",
-    "index.html": "/AICoverMaker/index.html",
-    "main.80ee0b07.css.map": "/AICoverMaker/static/css/main.80ee0b07.css.map",
-    "main.58488b78.js.map": "/AICoverMaker/static/js/main.58488b78.js.map",
-    "787.ebde1ebc.chunk.js.map": "/AICoverMaker/static/js/787.ebde1ebc.chunk.js.map"
+    "main.css": "/aicovermaker/static/css/main.80ee0b07.css",
+    "main.js": "/aicovermaker/static/js/main.dcce2254.js",
+    "static/js/787.ebde1ebc.chunk.js": "/aicovermaker/static/js/787.ebde1ebc.chunk.js",
+    "index.html": "/aicovermaker/index.html",
+    "main.80ee0b07.css.map": "/aicovermaker/static/css/main.80ee0b07.css.map",
+    "main.dcce2254.js.map": "/aicovermaker/static/js/main.dcce2254.js.map",
+    "787.ebde1ebc.chunk.js.map": "/aicovermaker/static/js/787.ebde1ebc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80ee0b07.css",
-    "static/js/main.58488b78.js"
+    "static/js/main.dcce2254.js"
   ]
 }
