@@ -7,7 +7,7 @@ const API_KEY = process.env.REACT_APP_OPENAI_KEY; // Replace with your actual Op
 function CoverNote() {
 
 
-  console.log("here is code" + API_KEY)
+  console.log("here is codes" + API_KEY)
   const [candidateSummary, setCandidateSummary] = useState('');
   const [jobText, setJobText] = useState('');
   const [generatedLetter, setGeneratedLetter] = useState('');
