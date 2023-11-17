@@ -2,7 +2,7 @@ import { useState } from "react";
 import axios from "axios";
 import './styles/buttonstyle.scss';
 
-const API_KEY = "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"; // Replace with your actual OpenAI API key
+const API_KEY = process.env.REACT_APP_OPENAI_KEY; // Replace with your actual OpenAI API key
 
 function CoverNote() {
   const [candidateSummary, setCandidateSummary] = useState('');
