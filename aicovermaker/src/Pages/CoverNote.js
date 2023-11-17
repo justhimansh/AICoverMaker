@@ -5,6 +5,9 @@ import './styles/buttonstyle.scss';
 const API_KEY = process.env.REACT_APP_OPENAI_KEY; // Replace with your actual OpenAI API key
 
 function CoverNote() {
+
+
+  console.log("here is code" + API_KEY)
   const [candidateSummary, setCandidateSummary] = useState('');
   const [jobText, setJobText] = useState('');
   const [generatedLetter, setGeneratedLetter] = useState('');
